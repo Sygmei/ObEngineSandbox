@@ -1,0 +1,3 @@
+Mount:
+    test: Workspace { path: "Test" }
+    object: Path { path: "test://Data/GameObjects" }

@@ -1,0 +1,9 @@
+Meta:
+    name: "Test"
+
+View:
+    size: 1.0
+
+GameObjects:
+    test:
+        type: "CoolPolygons"
